@@ -1,0 +1,3 @@
+
+    First task result: 4662;
+    Second task result: 5900;
