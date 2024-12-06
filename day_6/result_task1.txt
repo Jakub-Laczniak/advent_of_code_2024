@@ -1,0 +1,2 @@
+
+    First task result: 4890;
